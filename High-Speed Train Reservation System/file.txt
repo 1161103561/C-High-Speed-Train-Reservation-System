@@ -1,0 +1,4 @@
+ 1234		KL 		JB 		    23:00	   5HR
+ 9768 		MLK 		IPOH		    12:00	   6HR
+ 3208		MUAR 		KEDAH 		    9:00	  10HR
+ 3390		KUATAN		SABAH		    21:00	   1HR

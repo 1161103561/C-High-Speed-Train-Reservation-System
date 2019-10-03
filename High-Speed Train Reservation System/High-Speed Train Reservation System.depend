@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1569839188 source:c:\users\asus\documents\railway reservation system\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<deque>
+
+1569934980 source:c:\users\asus\documents\high-speed train reservation system\main.cpp
+	<deque>
+	<vector>
+	<cstdio>
+	<string>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<windows.h>
+
